@@ -1,0 +1,22 @@
+body{
+    background-color: #b784db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-style: oblique;
+    
+}
+.font{
+    font-style: oblique;
+    font-size: 40px; 
+   
+    color:#F9F07A;
+    position: absolute;
+    top:auto;
+    
+}
+.font:hover {
+    color:white;
+    transition: 0.5s ease-in-out;
+}

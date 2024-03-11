@@ -1,0 +1,16 @@
+body{
+    background-image: url("jimin.jpg");
+    background-size: auto;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top:250px;
+    left:400px;
+}
+div h1{
+    color:blueviolet;
+    
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
